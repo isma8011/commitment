@@ -8,6 +8,5 @@ article {
   width: 80%;
   padding-left: 10%;
   padding-right: 10%;
-  border-width: 2px;
-  border-color: black;
+  background: #8c7272;
 }
