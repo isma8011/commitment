@@ -14,3 +14,7 @@ article {
 .box {
   padding: 5px;
 }
+
+p {
+  size: 14px;
+}
