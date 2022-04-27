@@ -1,3 +1,8 @@
 body {
   background: #b05a5a;
 }
+
+article {
+  text-align: left;
+  align-items: center;
+}
